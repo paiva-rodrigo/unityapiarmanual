@@ -1,0 +1,23 @@
+{
+  "name": "unityapiarmanual",
+  "version": "1.0.0",
+  "description": "here i have the data for one AR mobile application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paiva-rodrigo/unityapiarmanual.git"
+  },
+  "keywords": [],
+  "author": "Rodrigo Paiva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paiva-rodrigo/unityapiarmanual/issues"
+  },
+  "homepage": "https://github.com/paiva-rodrigo/unityapiarmanual#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
